@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+
+<cfsInfo status="aborted" infoWriteCounter="3" infoRejectCounter="0" error="
+xml file mat.xml doesn't exist
+
+In file '/home/fwein/code/master/source/DataInOut/ParamHandling/Xerces.cc' at line 58
+">
+  <summary>
+    <timer wall-clock="0.121s" wall="0.121" cpu="0.121704" calls="1"/>
+  </summary>
+  <header>
+    <environment started="2025-Jan-29 10:49:52" host="garam"/>
+  </header>
+</cfsInfo>
