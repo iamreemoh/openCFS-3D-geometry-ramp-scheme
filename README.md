@@ -1,9 +1,9 @@
 # openCFS-3D-geometry
 
 3d_ipopt_ramp_press-for-eqn
-Optimizer used: ipopt
-method: RAMP
-Boundary Condition at Nozzle_curve: Pressure equation
+Optimizer used: ipopt,
+method: RAMP,
+Boundary Condition at Nozzle_curve: Pressure equation,
 
 running Terminal Commands:
 1) cfs -m box3d-t_0.3-nx_200-ny_20-nz_20.mesh F3D_distributed_load
